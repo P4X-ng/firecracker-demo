@@ -1,0 +1,4 @@
+./ensure_resources.sh
+./one-time-setup.sh
+./setup-network-taps.sh
+./setup-tap-with-id.sh
